@@ -14,10 +14,16 @@ I have over three years of commercial experience building software for industria
 
 ## Selected projects
 
+### [AggregationService](https://github.com/lkdrm/AggregationService)
+
+A .NET API that aggregates product data from external services.
+The project explores Clean Architecture, CQRS, background processing, retries and fallbacks when external services are unavailable.
+
+**Stack:** C#, .NET, ASP.NET Core, MediatR, Clean Architecture, Docker, xUnit
+
 ### [React Invoice Generator](https://github.com/lkdrm/React_invoice)
 
 A browser-based invoice generator built with React and TypeScript.
-
 Features include VAT calculations, PDF preview and export, invoice templates, multilingual interface, local invoice history, dark mode, and responsive mobile layout.
 
 **Stack:** React, TypeScript, Vite, CSS Modules, Vitest, GitHub Pages
@@ -27,7 +33,6 @@ Features include VAT calculations, PDF preview and export, invoice templates, mu
 ### [ToDo Application](https://github.com/lkdrm/ToDoApplication)
 
 A full-stack task management application built with ASP.NET Core Minimal API and TypeScript.
-
 It includes REST endpoints, Entity Framework Core, SQLite persistence, optimistic concurrency, audit logging, a background worker, and unit tests.
 
 **Stack:** C#, .NET, ASP.NET Core, Entity Framework Core, SQLite, TypeScript, xUnit
@@ -35,7 +40,6 @@ It includes REST endpoints, Entity Framework Core, SQLite persistence, optimisti
 ### [TxTReader](https://github.com/lkdrm/TxTReader)
 
 A WPF desktop application for reading large text files efficiently.
-
 It supports asynchronous file reading, search and filtering, dark mode, URL downloads, keyboard navigation, and large-file handling without loading everything into memory.
 
 **Stack:** C#, .NET, WPF, MVVM, async file I/O, HttpClient, xUnit
