@@ -7,8 +7,8 @@ I have over three years of commercial experience building software for industria
 ## What I work with
 
 * **C# / .NET** — .NET 8, .NET Standard, WPF, ASP.NET Core
-* **Backend** — REST APIs, Entity Framework Core, SQL, LINQ, Dependency Injection
-* **Architecture** — Clean Architecture, SOLID, MVVM, Async/Await
+* **Backend** — REST APIs, Entity Framework Core, SQL, LINQ, Dependency Injection, Async/Await
+* **Architecture** — Clean Architecture, SOLID, MVVM
 * **Industrial software** — STM32, RS232, RS485, USB, CAN Bus, firmware flashing
 * **Frontend** — React, TypeScript, Vite
 
@@ -48,5 +48,3 @@ It supports asynchronous file reading, search and filtering, dark mode, URL down
 
 * LinkedIn: [Vitalii Kiral](https://www.linkedin.com/in/vitalii-kiral-2114bb241/)
 * Email: [vitalii.kiral@gmail.com](mailto:vitalii.kiral@gmail.com)
-
-Thanks for visiting my profile.
