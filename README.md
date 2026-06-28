@@ -42,7 +42,7 @@ It supports asynchronous file reading, search and filtering, dark mode, URL down
 
 ## Contact
 
-* LinkedIn: add your LinkedIn link here
+* LinkedIn: [Vitalii Kiral](https://www.linkedin.com/in/vitalii-kiral-2114bb241/)
 * Email: [vitalii.kiral@gmail.com](mailto:vitalii.kiral@gmail.com)
 
 Thanks for visiting my profile.
